@@ -55,7 +55,7 @@ Answer 3
 ```
 
 ## Questions 4
-TBD - API errors
+This is written in a gem. Please find [here](https://github.com/iambanklee/bookingbug-api) for more details
 
 ## Questions 5
 MySQL:
